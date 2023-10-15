@@ -17,6 +17,7 @@
 
 ### REDIRECT TO WHATSSAP
 
+![FLOWwhatsap](https://github.com/ayoubrakine/TP_PIZZA/assets/117600764/48f87f94-3df6-4eda-8a94-a7764946b48f)
 
 
 ### REDIRECT TO WHATSAPP NUMBER

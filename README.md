@@ -17,7 +17,7 @@
 
 ### REDIRECT TO WHATSSAP
 
-![WhatsApp](https://github.com/ayoubrakine/TP_PIZZA/assets/117600764/4831e97b-678c-4309-a8ef-6c76d3efe96b)
+
 
 ### REDIRECT TO WHATSAPP NUMBER
 

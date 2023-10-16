@@ -16,8 +16,6 @@
 ![DataView](https://github.com/ayoubrakine/TP_PIZZA/assets/117600764/e73e6a00-ea24-42cb-a403-b4e9ace47cd1)
 
 ### REDIRECT TO WHATSSAP
-
-![FLOWwhatsap]
 ![FLOWwhatsap](https://github.com/ayoubrakine/TP_PIZZA/assets/117600764/7547515a-8b9b-4c2f-9798-c81578bf5dd4)
 
 
